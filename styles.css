@@ -207,5 +207,21 @@ a.social:hover {
     border-radius: 20px;
     padding: 5px 10px;
     margin: 2px;}
+    
+  /*Css for hobbies page*/
+    ul.hobbies {
+      padding: 0;
+      text-align: center;
+    }
+    
+    .hobbies li {
+      border-radius: 6px;
+      display: inline-block;
+      background: lightgreen;
+      color: white;
+      padding: 5px 10px;
+      margin: 2px;
+    }  
+   
 }
 
