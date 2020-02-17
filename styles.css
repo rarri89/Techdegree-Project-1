@@ -83,6 +83,7 @@ header .profile-image:hover {
   border-radius: 5px;
   display: table;
   margin: 10px auto;
+  text-align: center;
 } 
 .location {
   background-color: #222;
@@ -100,24 +101,6 @@ header .profile-image:hover {
 }
 .card:hover {
   border-color: #ff99ff;
-}
-
-ul.skills {
-  padding: 0;
-  text-align: center;
-}
-
-.skills li {
-  border-radius: 6px;
-  display: inline-block;
-  background: #ff9904;
-  color: white;
-  padding: 5px 10px;
-  margin: 2px;
-}
-
-.skills li:nth-child(odd) {
-  background: #0399ff;
 }
 
 footer {
@@ -207,7 +190,7 @@ a.social:hover {
     border-radius: 20px;
     padding: 5px 10px;
     margin: 2px;}
-    
+
   /*Css for hobbies page*/
     ul.hobbies {
       padding: 0;
