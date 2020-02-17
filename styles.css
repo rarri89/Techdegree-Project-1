@@ -184,12 +184,18 @@ a.social:hover {
     margin: 40px auto;
   }
 
-  /*Css for additional image*/
-  .background-card-image {
+  /*Monmouth image*/
+  .monmouth {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+
+  .citation {
+    font-size: xx-small;
     text-align: center;
-    border-radius: 20px;
-    padding: 5px 10px;
-    margin: 2px;}
+  }
 
   /*Css for hobbies page*/
     ul.hobbies {
